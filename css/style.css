@@ -11,8 +11,20 @@ body {
      border: 1 px solid green;
      width: 1200px;
      margin: 0px auto;
+     display: flex;
+     justify-content: space-between;
+     flex-direction: row;
 }
 
 .news-item {
      border: 1px solid blue;
+     width: 185px;
+     height: 150px;
+     background: blue;
+     color: white;
+     padding: 15px;
+     box-sizing: border-box;
 }
+
+ing{
+     width: 100;
