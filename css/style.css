@@ -10,15 +10,14 @@ body {
 .news-container {
      border: 1 px solid green;
      width: 1200px;
-     margin: 0px auto;
+     margin:0px auto;
      display: flex;
-     justify-content: space-between;
-     flex-direction: row;
+     
 }
 
 .news-item {
      border: 1px solid blue;
-     width: 185px;
+     width: 200px;
      height: 150px;
      background: blue;
      color: white;
@@ -27,4 +26,4 @@ body {
 }
 
 ing{
-     width: 100;
+     width: 200;
