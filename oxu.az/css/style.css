@@ -1,0 +1,38 @@
+body {
+    font-family: 'Mark Sans',sans-serif;
+    /*em 15px */
+    font size: 15px
+}
+
+ #top-info{
+     background: #333982;
+     color:white
+ }
+
+ .container{
+     width: 1120px;
+     margin: 0px auto;
+     border: 1px solid green;
+ }
+
+ .top-info{
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .top-info-action a{
+     padding: 17.5px 15px;
+     display: inline-block;
+     color: white;
+     background: #00AC1F;
+     text-decoration: none;
+     text-transform: uppercase;
+     font-weight: 600;
+     font-size: 0.9em;
+ }
+
+ .top-info-content{
+     display: flex;
+     justify-content: flex-start;
+     align-items: conte ;
+ }
