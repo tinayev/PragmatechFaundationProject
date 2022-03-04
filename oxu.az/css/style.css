@@ -5,14 +5,13 @@ body {
 }
 
  #top-info{
-     background: #333982;
-     color:white
+     background-color: blue;
+     color: white;
  }
 
  .container{
      width: 1120px;
      margin: 0px auto;
-     border: 1px solid green;
  }
 
  .top-info{
@@ -34,5 +33,18 @@ body {
  .top-info-content{
      display: flex;
      justify-content: flex-start;
-     align-items: conte ;
+     align-item:center
+ }
+
+ .top-info-content span{
+     cursor: pointer;;
+     transition:all .4s linear ;
+ }
+
+ .top-info-content span{
+     margin-right:10px;
+ }
+
+ .top-info-content span:hover{
+     color: green
  }
