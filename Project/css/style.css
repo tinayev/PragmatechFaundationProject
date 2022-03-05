@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+
+.katigori{
+    padding: 70px 0px;
+}
+
+.katigori-container{
+    width: 960px;
+    margin: 0px auto;
+}
+
+.katigori-header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.katigori-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.katigori-item{
+    width: 30%;
+    height: 190px;
+    display: flex;
+}
+.katigori-button {
+    margin: 40px 0px;
+    display: flex;
+    justify-content: center;
+}
+.katigori-item img{
+    width: 150px;
+    margin: 40px 0px 0px 40px;
+}
