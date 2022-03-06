@@ -30,6 +30,12 @@ body{
     display: flex;
     justify-content: center;
 }
+.katigori-button button{
+    background-color: #6255a4;
+    border: 1px solid #6255a4;
+    color:#fff;
+}
+
 .katigori-item img{
     width: 150px;
     margin: 40px 0px 0px 40px;
