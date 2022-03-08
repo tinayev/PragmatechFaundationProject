@@ -1,0 +1,58 @@
+.body{
+    font-size: 30px;
+    margin: 0px;
+}
+.mentoring-container{
+    width: 1260px;
+    margin: 0px auto;
+    height: inherit;
+    position: relative;
+    display: flex;
+}
+.mentoring-info {
+    height: 590px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.mentoring-overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(252, 250, 250, 0.5);
+    position: absolute;
+}
+
+.mentoring-info {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.mentoring-info-Nav ul {
+    display: flex;
+    list-style: none;
+    background-color:#343a40;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mentoring-info-Nav ul li a {
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 1.1em;
+    transition: all .5s linear;
+}
+.mentoring-info-action a{
+     padding: 17.5px 15px;
+     display:inline-block;
+     color: white;
+     background:green;
+     text-decoration: none;
+     text-transform: uppercase;
+     font-weight: 600;
+    font-size: 0.9em;
+}
