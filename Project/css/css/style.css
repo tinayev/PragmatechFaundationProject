@@ -7,13 +7,12 @@
     margin: 0px auto;
     height: inherit;
     position: relative;
-    display: flex;
 }
 .mentoring-info {
     height: 590px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position:center center;
 }
 
 .mentoring-overlay {
@@ -29,7 +28,7 @@
     padding-top: 30px;
 }
 
-.mentoring-info-Nav ul {
+.mentoring-info-Nav ul{
     display: flex;
     list-style: none;
     background-color:#343a40;

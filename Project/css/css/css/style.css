@@ -1,0 +1,25 @@
+.body{
+    font-size: 30px;
+    margin: 0px;
+}
+
+.project-button button{
+    background-color: #6255A4;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-size: 1.5em;
+    border: none;
+}
+
+.news-button button {
+    background-color:yellowgreen;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-size: 1.5em;
+    border: none;
+}
+.info-overlay{
+    position: relative;
+}
