@@ -13,13 +13,36 @@
 }
 
 .news-button button {
-    background-color:yellowgreen;
+    background-color:rgb(187, 187, 18);
     color: #fff;
     border-radius: 10px;
     padding: 20px 40px;
     font-size: 1.5em;
     border: none;
 }
-.info-overlay{
-    position: relative;
+
+.project-info h1{
+    color:#6255A4;
+    padding-top: 20px;
+}
+
+.news-info-header h1{
+    color:rgb(206, 206, 13);
+    padding-top: 20px ;
+}
+
+
+.project-info h2{
+    color:rgb(37, 34, 34);
+}
+
+.news-info-header h2{
+    color:rgb(95, 78, 78)
+}
+
+.news-button button{
+    cursor: pointer;
+}
+.project-button button{
+    cursor: pointer;
 }
