@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+.project-all{
+    position: relative;
+}
+
 .project-button button{
     background-color: #6255A4;
     color: #fff;
@@ -40,9 +44,6 @@
     color:rgb(95, 78, 78)
 }
 
-.news-button button{
-    cursor: pointer;
-}
-.project-button button{
-    cursor: pointer;
+.project-info{
+    position: relative;
 }
