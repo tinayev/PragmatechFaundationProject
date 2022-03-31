@@ -1,7 +1,7 @@
 body {
     font-family: 'Mark Sans',sans-serif;
     /*em 15px */
-    font size: 15px
+    font-size: 15px;
 }
 
  #top-info{
@@ -23,7 +23,7 @@ body {
      padding: 17.5px 15px;
      display: inline-block;
      color: white;
-     background: #00AC1F;
+     background:green;
      text-decoration: none;
      text-transform: uppercase;
      font-weight: 600;
@@ -33,7 +33,7 @@ body {
  .top-info-content{
      display: flex;
      justify-content: flex-start;
-     align-item:center
+    align-items:center;
  }
 
  .top-info-content span{
@@ -46,5 +46,5 @@ body {
  }
 
  .top-info-content span:hover{
-     color: green
+    color:blue;
  }
