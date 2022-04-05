@@ -5,7 +5,7 @@ muelimati masinla oxuna bilen formada zolaqda,kartda,diskde ve s. saxlaya bilir,
 ## 3. Machine Language və Binary Code arasında nə əlaqə var?
 her ikisi kod menasini veriri ve s.
 ## 4. Ram,Harddisk və CPU nun kompyuter daxilindəki vəzifələri nədir?
-
+ram-komputer ve diger qurgularda informasiyanin oxunmasi ve yazilmasini temin eden yaddas.Harddisk-komputerde is zamani istifade olunan informasiyanin daimi saxlanilmasi ucun istifade olunur.CPU-komputer uzerinde edilen butun arfimetik ve mentiqi emeliyyatlar bu qurgu terefinden reallasdirilir ve nezaret edilir.
 ## 5. Transistor nədir?
 transistor giris,bosaltma ve menbe hisselerinden ibaretdir,bunlar kollektor ve baza adlanir.
 ## 6. 10-luq say sistemində verilən 983 ədədinin 2-lik say sistemində ifadə edilə bilməsi üçün nə etməliyəm və nəticə nə olacaq?
