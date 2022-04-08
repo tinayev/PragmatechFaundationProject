@@ -1,0 +1,1 @@
+print("Yasinizi qeyd edin:")
