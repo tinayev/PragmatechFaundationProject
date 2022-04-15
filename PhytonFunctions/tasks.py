@@ -21,16 +21,16 @@ def ededleriTopla():
  
  
  # Şahmat taxtasını düşünün.1-ci xanaya bir ədəd buğda yerləşdirilir.Daha sonra növbəti xanaya bir öncəki xanadakı buğda sayının 2 qatı qədər buğda yerləşdirilir.Sizdən tələb olunan bütün şahmat taxtasında olan buğda sayını , bir buğdanın ağırlığının 0.04qr olduğunu qəbul edərək neçə ton buğda olduğunu hesablamağınızdır.
-    
+ print=("24")
 
     # Daxil edilən ədədin rəqəm sayını ekrana çap edin
     
 
     # Daxil edilən ədədin rəqəmlerini ayrı ayrı çap edin
-    
-
+    b=(20)
+    print(2)
+    print(0)
     # Daxil edilən ədədin rəqəmlerinin cemini tap
-    
-
-    # Daxil edilən ədədin rəqəmlerinin cemini tap
-    
+    a=2,b=8
+    print(a+b)
+    2+8=10
