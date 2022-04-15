@@ -17,3 +17,20 @@ def ededleriTopla():
       i=i+1
       print(cem)
       ededleriTopla()
+ # a və b ədədlərinin ədədi ortasından böyük olan ədədləri çap edin.
+ 
+ 
+ # Şahmat taxtasını düşünün.1-ci xanaya bir ədəd buğda yerləşdirilir.Daha sonra növbəti xanaya bir öncəki xanadakı buğda sayının 2 qatı qədər buğda yerləşdirilir.Sizdən tələb olunan bütün şahmat taxtasında olan buğda sayını , bir buğdanın ağırlığının 0.04qr olduğunu qəbul edərək neçə ton buğda olduğunu hesablamağınızdır.
+    
+
+    # Daxil edilən ədədin rəqəm sayını ekrana çap edin
+    
+
+    # Daxil edilən ədədin rəqəmlerini ayrı ayrı çap edin
+    
+
+    # Daxil edilən ədədin rəqəmlerinin cemini tap
+    
+
+    # Daxil edilən ədədin rəqəmlerinin cemini tap
+    
