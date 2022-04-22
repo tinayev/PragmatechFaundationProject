@@ -21,6 +21,6 @@ bezi isleri rahat yerine yetirilmesi ucun istifade olunan bir mexanizm kimi baxa
 Python package nədir?
 python kodlarini nizama salmaga komek edir.
 Python py __init__.py faylı nə üçün istifadə edilir?
--
+eger faylin adi _init_.py dirse kodun neticesine py __init__.py  bele baxilir
 Virtual Environment nədir? Nə üçün istifadə olunur?
 -
