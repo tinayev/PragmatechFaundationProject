@@ -80,3 +80,4 @@ else:
     print("Cavabiniz sehvdir")
     
 yas = int("Duz cavab sayi-5.Sehv cavab sayi-0. Umumi bal-50")
+if yas >= 50:
