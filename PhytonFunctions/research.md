@@ -22,7 +22,7 @@ python kodlarini nizama salmaga komek edir.
 Python py init.py faylı nə üçün istifadə edilir? 
 eger faylin adi init.py dirse kodun neticesine py init.py bele baxilir. 
 Virtual Environment nədir? Nə üçün istifadə olunur?
--
+saytın asanıqla yazılmasını temın edır
 Pythonda neçə tip operator var?
 5 tıp operator var.
 Type Conversion nədir və niyə ehtiyac duyuruq?
