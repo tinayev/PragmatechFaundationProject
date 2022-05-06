@@ -1,10 +1,10 @@
 a="""[
-    {"Komanda":"Liverpool",
-    "Missiya":"Qelebe",
-    "NOvbeti oyun":"07.05.2022",
-    },{"klub":"Mancester city",
-    "premyer liga":"1-ci yerde",
-    "Cempion":"ingiltere premyer ligasi"}
+    {"Mekteb":"272 nomreli tam orta mekteb",
+    "Lazimi haydalar":"Sagirdlere yaxsi tehsil verib, Ali tehsil adina laiq gorulmeye calismaq",
+    "Novbeti ders ili":"22/23",
+    "Direktor":"Nizami Qasimov",
+    "Mektebin tehsil vermeyine gore qiymetlendirilmesi ":"Yaxsi",
     ]
 """
-print(a[{"Komanda"}])
+
+print(a[{"Mekeb"}])
