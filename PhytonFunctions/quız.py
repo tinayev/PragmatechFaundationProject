@@ -78,4 +78,4 @@ cavab=input("Cavabinizi daxil edin (Sadece a,b,c ve ya d ededi daxil edile biler
 if cavab== "d":
     print("Tebrikler")
 else:
-    print("Cavabiniz sehvdir")
+    print("Cavabiniz dogru deyil")
