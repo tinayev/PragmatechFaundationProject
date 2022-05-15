@@ -7,3 +7,8 @@ QMenu-Pulsuz virtuallasdirma programidir.virtuallasdirma programi emeliyyat sist
 QLabel-Qlabel mehsula mexsus meyarlara uygun olaraq yetisdirilen ve ya emal edilen mehsul ucun keyfiyyet etiketidir.
 QComboBox-Combobox istifadeciye teqdim edilecek siyahi elemetlerini birlesdirilmis qutuda gosterir.
 QScrollArea-cercıve daxılındevıdcetının mezmununu gondermek ucun surusdurme sahesı ıstıfade olunur
+
+
+QtCore-
+QtWidgets-
+QtGui-
