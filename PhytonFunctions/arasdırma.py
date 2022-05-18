@@ -9,6 +9,7 @@ QComboBox-Combobox istifadeciye teqdim edilecek siyahi elemetlerini birlesdirilm
 QScrollArea-cercıve daxılındevıdcetının mezmununu gondermek ucun surusdurme sahesı ıstıfade olunur
 
 
-QtCore-
+QtCore-siqnallar və yuvalar adlanan qüsursuz obyekt əlaqəsi üçün çox güclü mexanizmsorğulana bilən və dizayn edilə bilən obyekt xassələri təşkil edən iyerarxik və sorğulana bilən obyekt ağacları qorunan göstəricilərlə təbii şəkildə obyekt sahibliyi (QPointer) kitabxananın sərhədləri boyunca işləyən dinamik kadr
 QtWidgets-
-QtGui-
+QtGui-Qt GUI modulu pəncərə sisteminin inteqrasiyası, hadisələrin idarə edilməsi, OpenGL və OpenGL ES inteqrasiyası, 2D qrafika, əsas təsvirlər, şriftlər və mətn üçün dərslər təqdim edir. Bu siniflər Qt-nin istifadəçi interfeysi texnologiyaları tərəfindən daxili olaraq istifadə olunur və həmçinin birbaşa istifadə edilə bilər, məsələn, aşağı səviyyəli OpenGL ES qrafik API-lərindən istifadə edərək proqramlar yazmaq üçün.
+İstifadəçi interfeyslərini yazan proqram tərtibatçıları üçün Qt Qt GUI modulunda tapılan aktivləşdiricilərdən daha uyğun olan Qt Quick kimi daha yüksək səviyyəli API təmin edir.
