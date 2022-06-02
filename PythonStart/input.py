@@ -4,4 +4,5 @@ if yas >= 16:
     if yas < 16:
         print("Imtahana giris etmeye yasiniz catmir ")
         if yas >= 16:
-            prin
+            print("yasiniz azdisa valideyn icazesi olmalidir")
+            if yas >=16 
