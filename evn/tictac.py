@@ -36,3 +36,23 @@ class TicButton(QPushButoon):
                     btnStatus=True
                 
         print(self.clickCount)
+        
+        
+        
+        
+        
+        
+    for setir in range(1,setirSayi+1):
+        for sutun in range(1,sutunSayi+1):
+            btn=TicButton('',game)
+            btn.setGeometry(btnX,btnY,btnH)
+            btn.setStyleSheet('backgraund:lightgray')
+            btnX+=btnW
+        btnX=0
+        btnY+=btnH
+        
+        
+game.show()
+
+
+app.exec_()
