@@ -31,15 +31,8 @@ class TicButton(QPushButoon):
                 if btnStatus:
                     self.setText('X')
                     btnstatus=False
-                else:  self.settext('O')
-                btnStatus=True
+                else:
+                    self.settext('O')
+                    btnStatus=True
                 
         print(self.clickCount)
-        
-        
-        
-        
-        
-        
-        
-        
